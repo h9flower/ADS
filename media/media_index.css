@@ -1,0 +1,195 @@
+@media(max-width: 1232px){
+	.label_container{
+		flex-direction: column;
+	}
+	label.nav{
+		margin-right: 0;
+		margin-bottom: 20px;
+	}
+}
+@media(max-width: 1010px){
+	.ads_items_main {
+    flex-direction: column;
+}
+.container-we {
+    margin: 0 40px;
+}
+}
+@media(max-width: 900px){
+	.prev,
+	.next{
+		z-index: -666;
+	}
+	label.nav{
+		font-size: 16px;
+	}
+	.more_text{
+		font-size: 15px;
+	}
+	.footer_menu{
+		width: 200px;
+	}
+}
+@media(max-width: 900px){
+	.wrapper_client{
+		width: 150px;
+		padding-top: 50px;
+		flex-direction: column;
+	}
+	.rewiews_text{
+		width: 100%;
+		padding-left: 26px;
+	}
+}
+@media(max-width: 792px){
+	.page-contents {
+		flex-direction: column;
+	}
+	.more_photo {
+    width: 55%;
+    margin: 0 auto;
+	}
+	.more_text{
+    width: 55%;
+    margin: 0 auto;
+	}
+}
+@media(max-width: 766px){
+	label.nav {
+    font-size: 14px;
+}
+	label.nav span{
+	margin: 0 auto;
+}
+}
+@media(max-width: 720px){
+	label.nav span {
+    width: 100%;
+    text-align: center;
+}
+.footer_menu{
+	display: none;
+}
+.footer_logo{
+	display: none;
+}
+}
+@media(max-width: 640px){
+	.header_head{
+	flex-direction: column;
+	}
+	.header_head img {
+	display: flex;
+    width: 130px;
+    margin: 0 auto;
+    padding-top: 8px;
+	}
+	.enter{
+	margin-top: 10px;
+	justify-content: center;
+	}
+	.entance,
+	.registration{
+	padding: 5px 0;
+	width: 120px;
+	height: 26px;
+	font-size: 14px;
+	}
+	.slider_title{
+		font-size: 35px;
+	}
+	.slider_text{
+		width: 400px;
+		font-size: 14px;
+	}
+	.ads_item {
+    margin-right: 10px;
+	}
+	.section_ads h1 {
+    font-size: 29px;
+	}
+	.section_ads h2 {
+    font-size: 20px;
+	}
+	.ads_title {
+    font-size: 16px;
+	}
+	.ads_text {
+    font-size: 14px;
+    width: 200px;
+	}
+	label.nav {
+    font-size: 13px;
+	}
+	.more_photo{
+		width: 85%;
+	}
+	.more_text {
+    font-size: 14px;
+	}
+	.footer_contant{
+		grid-template-columns: 1fr;
+	}
+	.call_back {
+    margin: 0 auto;
+	}
+	.footer_text{
+	text-align: center;
+	width: 300px;
+	margin: 0 auto;
+	}
+}
+@media(max-width: 530px){
+	.layout{
+	grid-column-gap: 10px;
+	max-width: 100%;
+	min-width: 320px;
+	}
+}
+
+@media(max-width: 440px){
+.rewiews_item{
+	min-height: 370px;
+}
+.rewiews_text{
+	font-size: 15px;
+}
+.rewiews_name{
+	font-size: 15px;
+}
+.ads_items {
+    flex-direction: column;
+}
+.ads_item {
+    margin: 25px 10px 0 0;
+}
+.ads_text {
+    margin: 0 auto;
+    padding-top: 9px;
+}
+.rewiews_item{
+	margin: 0;
+}
+.look_all{
+	width: 100%;
+}
+.more_photo {
+    width: 95%;
+
+}
+@media(max-width: 412px){
+	.slider_title {
+    font-size: 30px;
+}
+	.slider_text {
+    width: 300px;
+}
+.footer_text{
+	width: 250px;
+}
+}
+@media(max-width: 360px){
+	.layout{
+		min-width: 100%;
+	}
+}
